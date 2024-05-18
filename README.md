@@ -42,18 +42,17 @@ Detect ears
 
 # Screenshots
 
-<img width="960" alt="2024-05-16 (1)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/a2c169e0-dd26-4347-a584-586e1b9ec5f4">
+Original Image Upload
+<img width="960" alt="2024-05-18 (6)" src="https://github.com/get-aastha/face_detection_filters/assets/108509128/2ab67d1f-78c0-4762-959b-f212835fef65">
 
-<img width="960" alt="2024-05-16 (2)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/90ebc3c8-dac6-4c05-861d-0d34c98df4a1">
+Manipulating Grayscale Filter
+<img width="960" alt="2024-05-18 (3)" src="https://github.com/get-aastha/face_detection_filters/assets/108509128/38fb8c42-6ec5-438f-ab94-24df48474122">
 
-<img width="960" alt="2024-05-16 (3)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/4014b1d2-4e65-4b86-9e95-53cba1527427">
+Manipulating Brightness Filter
+<img width="960" alt="2024-05-18 (4)" src="https://github.com/get-aastha/face_detection_filters/assets/108509128/32476d74-ad4c-4fc5-bf10-42e3db11b05e">
 
-<img width="960" alt="2024-05-16 (4)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/5c93cb37-ac06-47c7-b4e9-644e68905516">
+Manipulating Contrast Filter
+<img width="960" alt="2024-05-18 (5)" src="https://github.com/get-aastha/face_detection_filters/assets/108509128/3f8712ac-b225-4422-b6ab-ab663a47c43d">
 
-<img width="960" alt="2024-05-16 (5)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/da48dd38-7dab-4f05-8c3a-34f3065451d6">
-
-<img width="960" alt="2024-05-16 (6)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/770a783b-27ae-4ca6-b68d-de9544e72d5d">
-
-<img width="960" alt="2024-05-16 (7)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/baefe0a0-2c8f-4780-86e0-361a4e9f2c5f">
-
-<img width="960" alt="2024-05-16 (8)" src="https://github.com/get-aastha/Face_Detection_Filters/assets/108509128/a7d4684d-f9d2-40cc-9305-919564531f6d">
+Face Detection
+<img width="960" alt="2024-05-18 (7)" src="https://github.com/get-aastha/face_detection_filters/assets/108509128/e141dc3b-5014-44f9-9447-567670621f60">

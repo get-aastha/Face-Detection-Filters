@@ -43,7 +43,7 @@ Detect ears
 # Screenshots
 
 Original Image Upload
-<img width="960" alt="2024-05-18 (6)" src="https://github.com/get-aastha/face_detection_filters/assets/108509128/2ab67d1f-78c0-4762-959b-f212835fef65">
+![image](https://github.com/get-aastha/face_detection_filters/assets/108509128/6db956ca-02f0-44fe-8198-c866a9270b67)
 
 Manipulating Grayscale Filter
 <img width="960" alt="2024-05-18 (3)" src="https://github.com/get-aastha/face_detection_filters/assets/108509128/38fb8c42-6ec5-438f-ab94-24df48474122">
